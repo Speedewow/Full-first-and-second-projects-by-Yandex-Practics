@@ -1,0 +1,8 @@
+.video__inframes{
+    margin:50px 20% 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    position:absolute;
+    z-index: 1;
+}

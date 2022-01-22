@@ -2,10 +2,10 @@
     from {
         transform: rotate(0deg);
     }
-    to{
+    to {
         transform: rotate(360deg);
     }
 }
 .rotation{
-    animation: rotation 20s ease-in infinite;
+    animation: rotation 20s linear  infinite;
 }
