@@ -1,8 +1,7 @@
-.feynman__subtitle{
-    display: flex;
+.feynman__subtitle {
+    text-align: center;
     margin: 70px auto 0;
-    align-self:center;
     line-height: 51px;
     font-size: 36px;
     z-index: 1;
-  }
+}
